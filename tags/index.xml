@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on jcstarts</title>
+    <link>https://jcstarts.github.io/tags/</link>
+    <description>Recent content in Tags on jcstarts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jan 2022 23:02:05 -0600</lastBuildDate><atom:link href="https://jcstarts.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>markdown</title>
+      <link>https://jcstarts.github.io/tags/markdown/</link>
+      <pubDate>Sun, 30 Jan 2022 23:02:05 -0600</pubDate>
+      
+      <guid>https://jcstarts.github.io/tags/markdown/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>

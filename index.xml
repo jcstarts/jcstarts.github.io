@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jcstarts</title>
+    <link>https://jcstarts.github.io/</link>
+    <description>Recent content on jcstarts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jan 2022 23:02:05 -0600</lastBuildDate><atom:link href="https://jcstarts.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Reference</title>
+      <link>https://jcstarts.github.io/posts/markdown-reference/</link>
+      <pubDate>Sun, 30 Jan 2022 23:02:05 -0600</pubDate>
+      
+      <guid>https://jcstarts.github.io/posts/markdown-reference/</guid>
+      <description>Table Of Contents
+  Headings Paragraphs Emphasis Horizontal Rules Line Breaks Lists Links Images Block Quotes Code Raw HTML More References   Headings To make a heading, add a &amp;lsquo;#&amp;rsquo; at the start of the line with a space after.
+# Heading 1 ## Heading 2 ### Heading 3 #### Heading 4 ##### Heading 5 ###### Heading 6 Paragraphs Paragraphs are just plain text inside your markdown.
+This is a paragraph Emphasis You can Bolden or Italicize your markdown by wrapping words in &amp;lsquo;**&amp;rsquo; for bold, or a single &amp;lsquo;_&amp;rsquo; for italics.</description>
+      <content>&lt;p&gt;&lt;strong&gt;Table Of Contents&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#headings&#34;&gt;Headings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#paragraphs&#34;&gt;Paragraphs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#emphasis&#34;&gt;Emphasis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#horizontal-rules&#34;&gt;Horizontal Rules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#line-breaks&#34;&gt;Line Breaks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#lists&#34;&gt;Lists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#links&#34;&gt;Links&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#images&#34;&gt;Images&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#block-quotes&#34;&gt;Block Quotes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#code&#34;&gt;Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#raw-html&#34;&gt;Raw HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#more-references&#34;&gt;More References&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
+&lt;p&gt;To make a heading, add a &amp;lsquo;#&amp;rsquo; at the start of the line with a
+space after.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;# Heading 1
+&lt;span style=&#34;color:#75715e&#34;&gt;## Heading 2
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;### Heading 3
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#### Heading 4
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;##### Heading 5
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;###### Heading 6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;paragraphs&#34;&gt;Paragraphs&lt;/h2&gt;
+&lt;p&gt;Paragraphs are just plain text inside your markdown.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;This is a paragraph
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h2&gt;
+&lt;p&gt;You can Bolden or Italicize your markdown by wrapping words
+in &amp;lsquo;**&amp;rsquo; for bold, or a single &amp;lsquo;_&amp;rsquo; for italics.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;**BOLD**
+
+_Italic_
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;horizontal-rules&#34;&gt;Horizontal Rules&lt;/h2&gt;
+&lt;p&gt;You can get a horizontal line across your page by adding &amp;lsquo;&amp;mdash;&amp;rsquo;
+on a line by itself.&lt;/p&gt;
+&lt;p&gt;If you add this line right under a word, that word becomes a
+heading.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;This is a heading
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;line-breaks&#34;&gt;Line Breaks&lt;/h2&gt;
+&lt;p&gt;You can get a line break on your page by adding &amp;lsquo;&lt;!-- raw HTML omitted --&gt;&amp;rsquo; on a line by itself.
+It&amp;rsquo;s also possible to get a line break by adding a blank line inbetween paragraphs.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&amp;lt;br&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;lists&#34;&gt;Lists&lt;/h2&gt;
+&lt;p&gt;Lists can be made by adding a number at the start of a line followed by a space.
+You can also achieve an unordered list by using a &amp;lsquo;-&#39;, &amp;lsquo;+&amp;rsquo;, or &amp;lsquo;*&amp;rsquo; instead of a number,
+watch out though, make sure to use just one of the three, don&amp;rsquo;t mix and match.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ordered Lists&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;1.&lt;/span&gt; First Item
+&lt;span style=&#34;color:#66d9ef&#34;&gt;2.&lt;/span&gt; Second Item
+&lt;span style=&#34;color:#66d9ef&#34;&gt;3.&lt;/span&gt; Third Item
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Unordered Lists&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; First Item
+&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; Second Item
+&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; Third Item
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;p&gt;To create a hyperlink in your page, wrap you link text in open and closing
+&amp;lsquo;[&amp;rsquo; &amp;lsquo;]&amp;rsquo; square brakets, the link itself will be wrapped in parenthesis
+&amp;lsquo;(&amp;rsquo; &amp;lsquo;)&#39;.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;[link text](https://examplesite.com)
+
+[JCstarts](https://jcstarts.github.io)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;![alt text](./path/to/image.png)
+
+![tuxy](tuxy.png)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;images/tuxy.png&#34; alt=&#34;tuxy&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;block-quotes&#34;&gt;Block Quotes&lt;/h2&gt;
+&lt;p&gt;To make a quote or block quote, start the line with a &amp;lsquo;&amp;gt;&amp;rsquo; followed
+by a space, for a multi-line quote just start everyline with a &amp;lsquo;&amp;gt;&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;Also there should be a blank line above and below your quotes.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;&amp;gt; &lt;/span&gt;&lt;span style=&#34;font-style:italic&#34;&gt;This is a quote.
+&lt;/span&gt;&lt;span style=&#34;font-style:italic&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;
+&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;&amp;gt; &lt;/span&gt;&lt;span style=&#34;font-style:italic&#34;&gt;This is a
+&lt;/span&gt;&lt;span style=&#34;font-style:italic&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;&amp;gt; &lt;/span&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Multi-line
+&lt;/span&gt;&lt;span style=&#34;font-style:italic&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;&amp;gt; &lt;/span&gt;&lt;span style=&#34;font-style:italic&#34;&gt;quote.
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;p&gt;To show off code in your markdown page, you have to make a code
+fence, this is done by wrapping it in three backticks &amp;lsquo;```&amp;rsquo;
+followed by the programming language.&lt;/p&gt;
+&lt;p&gt;Like so&amp;hellip;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;```go
+&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;package&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;
+
+&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;fmt&amp;#34;&lt;/span&gt;
+
+&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;() {
+  &lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World!&amp;#34;&lt;/span&gt;)
+}
+&lt;span style=&#34;color:#e6db74&#34;&gt;```&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;raw-html&#34;&gt;Raw HTML&lt;/h2&gt;
+&lt;p&gt;You can also use raw html in your markdown, in fact,
+everything we&amp;rsquo;ve covered so far can be done with the html
+equivalent.&lt;/p&gt;
+&lt;p&gt;Some markdown parsers don&amp;rsquo;t allow html in your document, due
+to security reasons. So if your html isn&amp;rsquo;t rendering correctly,
+check the documentation.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;Hello World&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;
+
+&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;This is a paragraphs in HTML&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;more-references&#34;&gt;More References&lt;/h2&gt;
+&lt;p&gt;Here are a few more resources to learn and explore Markdown.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mundimark/awesome-markdown&#34;&gt;Awesome Markdown List&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.markdownguide.org/basic-syntax/&#34;&gt;Markdown Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.github.com/gfm/&#34;&gt;Github Flavored Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
